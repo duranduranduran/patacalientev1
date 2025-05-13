@@ -21,7 +21,7 @@ export const navLinks = [
     },
 ];
 
-export const marqueeText = 'Open For Business 24/7 🌍';
+export const marqueeText = ' 🌍 hello@patacaliente.com';
 
 
 

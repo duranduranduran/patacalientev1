@@ -21,7 +21,7 @@ export const navLinks = [
     },
 ];
 
-export const marqueeText = ' 🌍 hello@anotherboringidea.com';
+export const marqueeText = ' 🌍 hello@patacalienteglobal.com';
 
 
 
